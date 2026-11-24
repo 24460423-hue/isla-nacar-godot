@@ -22,6 +22,10 @@ La validación local terminó con 557 comprobaciones y cero fallos. El recorrido
 
 Se abrió la exportación Web mediante un servidor HTTP local. El personaje respondió al teclado, recogió un fragmento, saltó, pausó y reinició. No hubo errores de consola. La publicación requiere una cuenta autorizada y la comprobación del enlace final en otro navegador.
 
+## Publicación y comprobación del enlace final
+
+Se autorizó GitHub CLI con la cuenta 24460423-hue y se creó el repositorio público isla-nacar-godot. GitHub Pages publica la carpeta docs de main. El servidor confirmó el estado built y HTTPS activo. Se abrió el enlace público, se inició una partida, se caminó hasta recoger un fragmento, se saltó y se pausó; la consola no mostró errores. La primera descarga del motor comprimido fue de aproximadamente 10 MB y tardó alrededor de 91 segundos en la conexión de prueba.
+
 ## Siguiente comprobación concreta
 
 Abrir el enlace HTTPS publicado desde otro navegador y jugar una partida completa personalmente. Revisar la distancia de seguimiento de la cámara y practicar las modificaciones de cada rol antes de la defensa.

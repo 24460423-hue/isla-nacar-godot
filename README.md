@@ -8,6 +8,8 @@ Juego 3D de recolección creado con Godot 4.7.2 para el proyecto final de Grafic
 
 Abre el juego publicado o importa `project.godot` en Godot 4.7.2 y pulsa F5. Pulsa Comenzar o Enter para iniciar. Debes recoger los doce fragmentos; los dos que están sobre ruinas requieren saltar. Puedes ver los fragmentos y guardianes en el minimapa.
 
+La primera carga descarga unos 10 MB del motor comprimido. Espera a que termine la barra de carga; el tiempo depende de la conexión.
+
 | Control | Acción |
 |---|---|
 | WASD o flechas | Caminar |
