@@ -2,6 +2,8 @@
 
 Juego 3D de recolección creado con Godot 4.7.2 para el proyecto final de Graficación. Explora una isla, recupera doce fragmentos de luz y evita a dos guardianes antes de que termine la marea. Incluye el código editable y la exportación web.
 
+[Jugar en el navegador](https://24460423-hue.github.io/isla-nacar-godot/) · [Código del proyecto](https://github.com/24460423-hue/isla-nacar-godot) · [Boceto](https://24460423-hue.github.io/isla-nacar-godot/boceto.svg)
+
 ## Jugar
 
 Abre el juego publicado o importa `project.godot` en Godot 4.7.2 y pulsa F5. Pulsa Comenzar o Enter para iniciar. Debes recoger los doce fragmentos; los dos que están sobre ruinas requieren saltar. Puedes ver los fragmentos y guardianes en el minimapa.

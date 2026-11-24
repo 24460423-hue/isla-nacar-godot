@@ -1,0 +1,25 @@
+ISLA NÁCAR — PROYECTO FINAL DE GRAFICACIÓN
+
+Juego exportado a web:
+https://24460423-hue.github.io/isla-nacar-godot/
+
+Repositorio con el código editable de Godot:
+https://github.com/24460423-hue/isla-nacar-godot
+
+Boceto del diseño:
+https://24460423-hue.github.io/isla-nacar-godot/boceto.svg
+
+Avance jugable: se puede utilizar el mismo enlace del juego.
+
+Carpeta original del proyecto:
+C:\Users\jossT\Documents\Godot\IslaNacar
+
+Para completar Academia:
+1. Registra personalmente tu modalidad y tus roles. El registro es definitivo.
+2. Usa el enlace del boceto y marca las piezas que te correspondan.
+3. Pega el enlace del juego en el avance y en la entrega final; pega el del repositorio en código.
+4. Juega personalmente el enlace desde otro navegador antes de marcar esa casilla.
+5. Usa BITACORA.md como referencia y describe lo que tú observaste y comprobaste.
+6. Declara el uso de IA. USO_IA.md distingue la asistencia recibida de tu verificación personal.
+
+Se implementaron las piezas de los tres roles: Mundo, Personaje y Juego. La guía para estudiarlas y practicar el cambio en vivo está en GUIA_DEFENSA.md. La defensa ante el docente queda pendiente.
