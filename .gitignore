@@ -1,0 +1,8 @@
+.godot/
+.DS_Store
+*.tmp
+*.pck
+!docs/index.pck
+*.zip
+Web/
+*.log
